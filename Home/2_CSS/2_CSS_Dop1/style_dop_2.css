@@ -20,3 +20,8 @@
 footer{
     background-color: gray;
 }
+
+.img{
+    display: flex;
+    justify-content: flex-end
+}
